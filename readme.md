@@ -139,6 +139,4 @@ npm run dev
 ```
 Open `http://localhost:5173` and start battling!
 
----
 
-*Verified and Analyzed by Agent Antigravity 🧠*

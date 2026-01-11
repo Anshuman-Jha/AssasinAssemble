@@ -24,7 +24,7 @@ export default {
   },
   networks: {
     fuji: {
-      url: 'https://api.Assasin-test.network/ext/bc/C/rpc',
+      url: 'https://api.avax-test.network/ext/bc/C/rpc',
       chainId: 43113,
       accounts: [process.env.PRIVATE_KEY],
     },

@@ -11,7 +11,7 @@ async function main() {
         console.log(`Balance: ${ethers.utils.formatEther(balance)} Assasin`);
 
         if (balance.eq(0)) {
-            console.warn("⚠️  WARNING: This account has 0 Assasin. Deployment will fail.");
+            console.warn("⚠️  WARNING: This account has 0 Tokens. Deployment will fail.");
         } else {
             console.log("✅ SUCCESS: This account has funds.");
         }
